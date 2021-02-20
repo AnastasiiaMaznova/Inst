@@ -26,17 +26,23 @@ body {
 
 .higlight-story {
   padding-top: 20px;
+  padding-bottom: 25px;
 }
 
 .higlights {
   width: 80px;
 }
-
 .container {
+  margin: auto;
+  width: 800px;
+}
+
+.user-info-container {
   margin: auto;
   width: 800px;
   padding-top: 20px;
 }
+
 
 .main-avatar {
   padding: 15px 5px 20px 0px;
@@ -67,4 +73,16 @@ body {
 .photo-nav {
   font-size: 11px;
   text-transform: uppercase;
+}
+
+.content-img {
+  width: 300px;
+}
+
+.navigation-container, .images-container {
+  width: 1000px;
+}
+
+.images-row {
+  padding-top: 28px;
 }
