@@ -1,13 +1,26 @@
 .logo {
   width:110px;
+
 }
 
 .font-awesome-icon-in-attribute {
   font-family: FontAwesome;
 }
 
-.icons {
+.navigation-icon {
   font-size: 25px;
-  margin-left: 25px;
+  margin-left: 15px;
+}
+
+.avatar {
+  width: 150px;
+}
+
+.user-name {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 30px;
+}
+.higlights {
+  width: 80px;
 
 }
