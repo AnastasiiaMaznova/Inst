@@ -1,6 +1,9 @@
+body {
+  background-color: #F9F9F9;
+}
+
 .logo {
   width:110px;
-
 }
 
 .font-awesome-icon-in-attribute {
@@ -17,9 +20,14 @@
 }
 
 .user-name {
-  font-family: "Trebuchet MS", sans-serif;
-  font-size: 30px;
+  font-family: "Arial", cursive;
+  font-size: 25px;
 }
+
+.higlight-story {
+  padding-top: 20px;
+}
+
 .higlights {
   width: 80px;
 }
@@ -27,18 +35,36 @@
 .container {
   margin: auto;
   width: 800px;
+  padding-top: 20px;
 }
 
 .main-avatar {
-  padding: 15px 5px 20px 5px;
+  padding: 15px 5px 20px 0px;
 
+}
+.main-info {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 17px;
 }
 
 .edit-button {
   font-size: 12px;
   font-weight: bold;
+  background-color: #F5F5F5;
+  border: 1px solid #E7E7E7;
 }
 
 .descr {
   font-weight: bold;
+}
+
+.nav-bar {
+  background-color: #FFFFFF;
+  border: 1px solid #E7E7E7;
+}
+
+.photo-nav {
+  font-size: 11px;
+  text-transform: uppercase;
 }
